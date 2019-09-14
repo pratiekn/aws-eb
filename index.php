@@ -20,6 +20,6 @@
 <p><strong>Note:</strong> You might have to reload the page to see the value of the cookie.</p>
 */
      echo "uttam ganesh archana vinod pratiek vishwas shivraj vishwa";
-     
+    ?/ 
 </body>
 </html>
